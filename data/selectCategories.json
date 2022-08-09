@@ -1,0 +1,18 @@
+[
+  {
+    "value": "design",
+    "label": "Design"
+  },
+  {
+    "value": "frontEnd",
+    "label": "Front-End"
+  },
+  {
+    "value": "backEnd",
+    "label": "Back-End"
+  },
+  {
+    "value": "pms",
+    "label": "PM’s"
+  }
+]
